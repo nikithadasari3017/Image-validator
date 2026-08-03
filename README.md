@@ -157,8 +157,8 @@ This project is created for educational and learning purposes.
 
 Final-Year B.Tech Student | Cloud Computing Enthusiast | AWS & Python Learner
 
-**GitHub:**
-**LinkedIn:** 
+**GitHub:**github.com/nikithadasari3017
+**LinkedIn:** https://www.linkedin.com/in/dasari-nikitha-549564332 
 
 ---
 
